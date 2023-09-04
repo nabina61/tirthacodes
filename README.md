@@ -21,6 +21,6 @@
 </p>      
   
 <p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=realtirtha&theme=juicyfresh&no-bg=true" alt="realtirtha" />  
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tirthacodes&theme=juicyfresh&no-bg=true" alt="tirthacodes" />  
 
 </p>
